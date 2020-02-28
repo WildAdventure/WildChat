@@ -1,0 +1,10 @@
+name: WildChat
+main: com.gmail.filoghost.wildchat.WildChat
+version: 1.0
+softdepend: [PermissionsEx]
+depend: [WildCommons]
+
+commands:
+   chat:
+      description: Comando principale per la chat (Admin).
+      usage: /<command> [args]
